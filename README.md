@@ -4,4 +4,5 @@ cd new_prj
 rm -fr .git
 cp conf/development.conf.php conf/production.conf.php
 curl -s https://getcomposer.org/installer | php
+php composer.phar install
 ```
