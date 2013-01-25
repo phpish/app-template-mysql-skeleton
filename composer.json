@@ -3,6 +3,6 @@
 		"phpish/app": "dev-master",
 		"phpish/template": "dev-master",
 		"phpish/mysql": "dev-master",
-		"phpish/http": "dev-master",
+		"phpish/http": "dev-master"
 	}
 }
