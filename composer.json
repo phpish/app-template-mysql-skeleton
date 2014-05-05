@@ -2,7 +2,7 @@
 	"name": "phpish/skeleton",
 	"type": "project",
 	"description": "Skeleton app for phpish",
-	"keywords": [skeleton],
+	"keywords": ["skeleton"],
 	"homepage": "https://github.com/phpish/skeleton",
 	"license": "MIT",
 	"authors": [
