@@ -1,24 +1,9 @@
 {
-	"name": "phpish/app-template-mysql-skeleton",
-	"type": "project",
-	"description": "Skeleton project using phpish/app, phpish/template and phpish/mysql ",
-	"keywords": ["skeleton", "app", "template", "mysql"],
-	"homepage": "https://github.com/phpish/app-template-mysql-skeleton",
-	"license": "MIT",
-	"authors": [
-		{
-			"name": "Sandeep Shetty",
-			"email": "sandeep.shetty@gmail.com"
-		}
-	],
-
+	"minimum-stability": "dev",
 	"require": {
 		"php": ">=5.3.0",
 		"phpish/app": "dev-master",
 		"phpish/template": "dev-master",
 		"phpish/mysql": "dev-master"
-	},
-	"config": {
-		"github-protocols": ["https", "git", "ssh"]
 	}
 }
