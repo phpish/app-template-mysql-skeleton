@@ -1,5 +1,5 @@
 {
-	"name": "phpish/skeleton",
+	"name": "phpish/app-template-mysql-skeleton",
 	"type": "project",
 	"description": "Skeleton project using phpish/app, phpish/template and phpish/mysql ",
 	"keywords": ["skeleton", "app", "template", "mysql"],
