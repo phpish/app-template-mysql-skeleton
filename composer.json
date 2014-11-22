@@ -1,9 +1,9 @@
 {
 	"name": "phpish/skeleton",
 	"type": "project",
-	"description": "Skeleton app for phpish",
-	"keywords": ["skeleton"],
-	"homepage": "https://github.com/phpish/skeleton",
+	"description": "Skeleton project using phpish/app, phpish/template and phpish/mysql ",
+	"keywords": ["skeleton", "app", "template", "mysql"],
+	"homepage": "https://github.com/phpish/app-template-mysql-skeleton",
 	"license": "MIT",
 	"authors": [
 		{
@@ -17,7 +17,6 @@
 		"phpish/app": "dev-master",
 		"phpish/template": "dev-master",
 		"phpish/mysql": "dev-master",
-		"phpish/http": "dev-master"
 	},
 	"config": {
 		"github-protocols": ["https", "git", "ssh"]
