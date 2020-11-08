@@ -2,8 +2,8 @@
 	"minimum-stability": "dev",
 	"require": {
 		"php": ">=5.3.0",
-		"phpish/app": "dev-master",
-		"phpish/template": "dev-master",
-		"phpish/mysql": "dev-master"
+		"phpish/app": "v1.0.0",
+		"phpish/template": "v1.0.0",
+		"phpish/mysql": "v1.0.0"
 	}
 }
